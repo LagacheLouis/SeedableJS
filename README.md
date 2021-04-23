@@ -3,7 +3,6 @@ A simple class based seedable random generator in javascript.
 
 ## Table of contents
   - [About](#about)
-  - [Getting started](#getting-started)
 
 ## About
 
