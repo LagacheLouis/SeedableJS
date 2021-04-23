@@ -43,7 +43,7 @@ class Seedable{
      * @returns mutiple (between min & max) random elements from an array
      */
     elements(array, min, max, autorizeDuplicate=true){
-        let length = Math.ceil(this.range(min, max));
+        let length = Math.floor(this.range(min, max+1));
         let res = [];
         for(let i = 0; i<length; i++){
             const value = array[Math.floor(this.value() * array.length)];
