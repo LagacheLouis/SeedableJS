@@ -1,6 +1,6 @@
 {
   "name": "@llagache/seedablejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple class based seedable random generator in javascript",
   "main": "seedable.js",
   "scripts": {
