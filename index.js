@@ -25,7 +25,7 @@ class Seedable{
     
     /**
      * Create a new Seedable random generator
-     * @param {string?} seed 
+     * @param {string?} optional seed 
      */
     constructor(seed){
         this.updateSeed(seed);

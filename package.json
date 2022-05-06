@@ -1,5 +1,5 @@
 {
-  "name": "seedable",
+  "name": "@llagache/seedablejs",
   "version": "1.0.0",
   "description": "A simple class based seedable random generator in javascript",
   "main": "seedable.js",
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/LagacheLouis/SeedableJS.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Lagache Louis",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/LagacheLouis/SeedableJS/issues"
   },
