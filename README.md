@@ -105,7 +105,8 @@ date(start, end)
 ```javascript
 /**
  * @param {number} length 
- * @returns random string using these char [ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789]
+ * @returns random string using these chars :
+ * [ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789]
  */
 string(length)
 ```
